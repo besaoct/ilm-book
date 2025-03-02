@@ -6,7 +6,7 @@
 
 IlmLang currently supports the following syntax:
 
-```rust
+```bash
 bismillah
 
     maktub real_name = "Shafin";  // Declare a variable
