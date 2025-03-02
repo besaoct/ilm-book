@@ -162,7 +162,7 @@ IlmLang provides the following commands via the `milaf` CLI:
 - **Enable VS Code Syntax Highlighting**:
   
   ```bash
-  milaf -enable language
+  milaf -e language
   ```
 
   - Installs the IlmLang VS Code extension for syntax highlighting and file icons.
