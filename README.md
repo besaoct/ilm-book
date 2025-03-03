@@ -1,10 +1,10 @@
-# **IlmLang (ilm)**  
+# **ilm**  
 
-**IlmLang** is an Islamic-themed programming language created by **Masud Shafin Ahmed (@besaoct)** out of boredom. Written entirely in **Rust**, it merges programming concepts with **Islamic terminology**, making coding both **unique and enjoyable**.  
+**ilm** is an Islamic-themed programming language created by **Masud Shafin Ahmed (@besaoct)** out of boredom. Written entirely in **Rust**, it merges programming concepts with **Islamic terminology**, making coding both **unique and enjoyable**.  
 
 ## Prerequisites
 
-Since IlmLang is written in pure Rust, you’ll need the following to run it:
+Since ilm is written in pure Rust, you’ll need the following to run it:
 
 - **Rust**: The Rust programming language and its package manager, Cargo.
   - Install Rust via [rustup](https://rustup.rs/):
@@ -31,7 +31,7 @@ Since IlmLang is written in pure Rust, you’ll need the following to run it:
 
 ## Installation
 
-To install IlmLang, use Cargo to fetch and build it from crates.io:
+To install ilm, use Cargo to fetch and build it from crates.io:
 
 ```bash
 cargo install ilm
@@ -61,7 +61,7 @@ milaf -v
 
 ## Commands
 
-IlmLang provides the following commands via the `milaf` CLI:
+ilm provides the following commands via the `milaf` CLI:
 
 - **Run a Program**:
 
@@ -95,7 +95,7 @@ IlmLang provides the following commands via the `milaf` CLI:
   
     ```bash
     milaf 0.1
-    A command-line tool for running IlmLang programs
+    A command-line tool for running ilm programs
 
     USAGE:
         milaf [OPTIONS] [SUBCOMMAND]
@@ -106,7 +106,7 @@ IlmLang provides the following commands via the `milaf` CLI:
         -v, --version             Print version information
 
     SUBCOMMANDS:
-        run    Run an IlmLang program
+        run    Run an ilm program
     ```
 
 - **Enable VS Code Syntax Highlighting**:
@@ -127,21 +127,21 @@ IlmLang provides the following commands via the `milaf` CLI:
      milaf -e language --force
     ```
 
-- Installs the IlmLang VS Code extension for syntax highlighting and file icon.
+- Installs the ilm VS Code extension for syntax highlighting and file icon.
 - After running, restart VS Code to see `.ilm` files highlighted (e.g., comments dimmed, keywords colored).
 
 
-Below, you'll find guides for different versions—read them and start coding with **IlmLang!**  
+Below, you'll find guides for different versions—read them and start coding with **ilm!**  
 
 ---
 
 ## **Guide v0.1**  
-📖 **Read here:** [IlmLang v0.1 Guide](https://github.com/besaoct/ilm-release/blob/main/v0.1.md)  
+📖 **Read here:** [ilm v0.1 Guide](https://github.com/besaoct/ilm-release/blob/main/v0.1.md)  
 
 ---
 
 ## About the Author
 
-IlmLang is a passion project by **Masud Shafin Ahmed** (@besaoct), created for fun and to explore programming with an Islamic twist. Follow the project on GitHub: [github.com/besaoct/ilm](https://github.com/besaoct/ilm) (private tho).
+ilm is a passion project by **Masud Shafin Ahmed** (@besaoct), created for fun and to explore programming with an Islamic twist. Follow the project on GitHub: [github.com/besaoct/ilm](https://github.com/besaoct/ilm) (private tho).
 
 Jealousy Brings Out the Worst in Us. Happy coding! 🚀
