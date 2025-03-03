@@ -127,7 +127,7 @@ IlmLang provides the following commands via the `milaf` CLI:
      milaf -e language --force
     ```
 
-- Installs the IlmLang VS Code extension for syntax highlighting and file icons.
+- Installs the IlmLang VS Code extension for syntax highlighting and file icon.
 - After running, restart VS Code to see `.ilm` files highlighted (e.g., comments dimmed, keywords colored).
 
 
