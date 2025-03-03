@@ -142,7 +142,6 @@ Below, you'll find guides for different versions—read them and start coding wi
 
 ## About the Author
 
-IlmLang is a passion project by **Masud Shafin Ahmed** (@besaoct), created for fun and to explore programming with an Islamic twist. Follow the project on GitHub: [github.com/besaoct/ilm](https://github.com/besaoct/ilm) (Currently private).
-
+IlmLang is a passion project by **Masud Shafin Ahmed** (@besaoct), created for fun and to explore programming with an Islamic twist. Follow the project on GitHub: [github.com/besaoct/ilm](https://github.com/besaoct/ilm) (private tho).
 
 Happy coding! 🚀
